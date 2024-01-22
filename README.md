@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardipazij&layout=compact&show_icons=true&theme=panda)](https://github-readme-stats.vercel.app/api?username=ardipazij&layout=compact&show_icons=true&theme=panda)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardipazij&layout=compact&theme=panda)](https://github-readme-stats.vercel.app/api/top-langs/?username=ardipazij&layout=compact&theme=panda)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardipazij&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com?user=ardipazij&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardipazij&theme=solarized_dark)
