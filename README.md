@@ -11,7 +11,7 @@
 
 <div id="hello" align="justify">
     <h1><b>Hi there, I'm Timur</b></h1>
-    <img src="./animation.gif" width=2000%//>
+    <img src="animation.gif" width=2000%//>
 </div>
 
 # About me 
