@@ -16,8 +16,10 @@
 
 I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the university in the third year, specialising in applied mathematics and computer sciense (KNITU-KAI, 01.03.02), and at school 21 (@brettros). In my free time I study machine learning, deep learning, data analysis and have fun with game development. Here are my educational, job and personal projects.
 
+---
 
 ### Languages:
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
@@ -27,6 +29,7 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
 
 
 ### Database and database's tools:
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
     <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" alt="supabase" width="30" height="30"/>
@@ -36,7 +39,8 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
 </p>
 
 
-### Tools
+### Tools:
+
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
@@ -53,8 +57,9 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="30" height="30"/>
 </p>
 
+---
 
-My stats:
+# My stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardipazij&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardipazij&theme=dark)
