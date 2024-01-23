@@ -9,7 +9,7 @@
 
 <div id="hello" align="center">
     <h1><b>Hi there, I'm Timur</b></h1>
-    <img src="./animation.gif.gif" width="200" alt="Animation"/>
+    <img src="./animation.gif.gif" width="500" alt="Animation"/>
 </div>
 
 # About me 
