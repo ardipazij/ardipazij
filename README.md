@@ -5,16 +5,16 @@
     <a href="teddy.remus.edward.lupin@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
     </a>
-    <div style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ardipazij&layout=compact&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </div>
 </div> 
 
 ---
 
-# About me 
+<div id="hello" align="justify">
+    <h1><b>Hi there, I'm Timur</b></h1>
+    <img src="./animation.gif.mp4" width=2000%//>
+</div>
 
-Hello!
+# About me 
 
 I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the university in the third year, specialising in applied mathematics and computer sciense (KNITU-KAI, 01.03.02), and at school 21 (@brettros). In my free time I study machine learning, deep learning, data analysis and have fun with game development. Here are my educational, job and personal projects.
 
@@ -64,4 +64,6 @@ My stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardipazij&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardipazij&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardipazij&theme=dark)
+    <div style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ardipazij&layout=compact&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </div>
