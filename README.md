@@ -9,9 +9,9 @@
 
 ---
 
-<div id="hello" align="justify">
+<div id="hello" align="center">
     <h1><b>Hi there, I'm Timur</b></h1>
-    <img src="./animation.gif.gif" width=2000%//>
+    <img src="./animation.gif.gif" width="200" alt="Animation"/>
 </div>
 
 # About me 
