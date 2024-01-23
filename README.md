@@ -16,7 +16,6 @@
 
 I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the university in the third year, specialising in applied mathematics and computer sciense (KNITU-KAI, 01.03.02), and at school 21 (@brettros). In my free time I study machine learning, deep learning, data analysis and have fun with game development. Here are my educational, job and personal projects.
 
----
 
 ### Languages:
 <p align="left">
@@ -26,7 +25,6 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
 </p>
 
----
 
 ### Database and database's tools:
 <p align="left">
@@ -37,7 +35,6 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/>
 </p>
 
----
 
 ### Tools
 <p align="left">
@@ -56,7 +53,6 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="30" height="30"/>
 </p>
 
----
 
 My stats:
 
