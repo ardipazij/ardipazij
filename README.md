@@ -13,7 +13,7 @@
 ---
 
 # About me 
-***
+
 Hello!
 
 I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the university in the third year, specialising in applied mathematics and computer sciense (KNITU-KAI, 01.03.02), and at school 21 (@brettros). In my free time I study machine learning, deep learning, data analysis and have fun with game development. Here are my educational, job and personal projects.
