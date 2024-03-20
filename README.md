@@ -61,7 +61,6 @@ I am an aspiring developer from Kazan, Tatarstan. I'm currently studying at the 
 # My stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardipazij&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardipazij&theme=dark)
     <div style="display: inline-block;">
         <img src="https://github-readme-stats.vercel.app/api?username=ardipazij&layout=compact&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </div>
