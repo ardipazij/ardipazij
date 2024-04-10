@@ -9,6 +9,7 @@
 
 <div id="hello" align="center">
     <h1><b>Hi there, I'm Timur</b></h1>
+    <h3> CV -  <a href="https://disk.yandex.ru/i/v3ftqUs9jFdobA"> link </a> </h3>
     <img src="./animation.gif.gif" width="500" alt="Animation"/>
 </div>
 
