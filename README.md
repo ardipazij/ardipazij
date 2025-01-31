@@ -2,7 +2,7 @@
     <a href="https://t.me/ardipazij">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
     </a>
-    <a href="mailto:teddy.remus.edward.lupin@gmail.com">
+    <a href="mailto:ml@yunusovtr.ru">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
     </a>
 </div> 
